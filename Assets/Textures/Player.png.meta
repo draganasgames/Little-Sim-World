@@ -1,0 +1,1085 @@
+fileFormatVersion: 2
+guid: 87e9317d5379d7543b1b68e5e11930be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -400707943150083450
+    second: stella_walk (1)_0
+  - first:
+      213: -7996958134461305271
+    second: stella_walk (1)_1
+  - first:
+      213: 550133957346888155
+    second: stella_walk (1)_2
+  - first:
+      213: 1217309135691261221
+    second: stella_walk (1)_3
+  - first:
+      213: -5823275860636241000
+    second: stella_walk (1)_4
+  - first:
+      213: -2099498053020425301
+    second: stella_walk (1)_5
+  - first:
+      213: -6023054580433522449
+    second: stella_walk (1)_6
+  - first:
+      213: 642292546701384170
+    second: stella_walk (1)_7
+  - first:
+      213: -6926984217852968581
+    second: stella_walk (1)_8
+  - first:
+      213: 6644487955471147626
+    second: stella_walk (1)_9
+  - first:
+      213: 135001379601510814
+    second: stella_walk (1)_10
+  - first:
+      213: 5079433381808221542
+    second: stella_walk (1)_11
+  - first:
+      213: 2643711875088865269
+    second: stella_walk (1)_12
+  - first:
+      213: 2942609471887915769
+    second: stella_walk (1)_13
+  - first:
+      213: -5461985826108221322
+    second: stella_walk (1)_14
+  - first:
+      213: -1880348139344338177
+    second: stella_walk (1)_15
+  - first:
+      213: 8740779906169412624
+    second: stella_walk (1)_16
+  - first:
+      213: -5645174921147959743
+    second: stella_walk (1)_17
+  - first:
+      213: -2749971191610043787
+    second: stella_walk (1)_18
+  - first:
+      213: 6341532232528353837
+    second: stella_walk (1)_19
+  - first:
+      213: -3131811284719341918
+    second: stella_walk (1)_20
+  - first:
+      213: 6548069534337756324
+    second: stella_walk (1)_21
+  - first:
+      213: 7587544789176594308
+    second: stella_walk (1)_22
+  - first:
+      213: -7174746129633541143
+    second: stella_walk (1)_23
+  - first:
+      213: 3280543087004807162
+    second: stella_walk (1)_24
+  - first:
+      213: -920571236942281069
+    second: stella_walk (1)_25
+  - first:
+      213: -1701290420632152825
+    second: stella_walk (1)_26
+  - first:
+      213: -2699123114395880755
+    second: stella_walk (1)_27
+  - first:
+      213: -6592852765089954542
+    second: stella_walk (1)_28
+  - first:
+      213: 3877186835413593902
+    second: stella_walk (1)_29
+  - first:
+      213: -893838051663471542
+    second: stella_walk (1)_30
+  - first:
+      213: -8443383573726410783
+    second: stella_walk (1)_31
+  - first:
+      213: 4953586772044496449
+    second: stella_walk (1)_32
+  - first:
+      213: -8898579863943675733
+    second: stella_walk (1)_33
+  - first:
+      213: -1128941728589513809
+    second: stella_walk (1)_34
+  - first:
+      213: -6460055015963756336
+    second: stella_walk (1)_35
+  - first:
+      213: -8024037759370662011
+    second: stella_walk (1)_36
+  - first:
+      213: 1170821617472986606
+    second: stella_walk (1)_37
+  - first:
+      213: -4700439579504679353
+    second: stella_walk (1)_38
+  - first:
+      213: -7266412649629206129
+    second: stella_walk (1)_39
+  - first:
+      213: 7614690315099353441
+    second: stella_walk (1)_40
+  - first:
+      213: 2102650233979884711
+    second: stella_walk (1)_41
+  - first:
+      213: 8395634679162070068
+    second: stella_walk (1)_42
+  - first:
+      213: -3338599555821509660
+    second: stella_walk (1)_43
+  - first:
+      213: -8778961974371836915
+    second: stella_walk (1)_44
+  - first:
+      213: 2174568888319565703
+    second: stella_walk (1)_45
+  - first:
+      213: -2759871736916303916
+    second: stella_walk (1)_46
+  - first:
+      213: -7955542271755666644
+    second: stella_walk (1)_47
+  - first:
+      213: 4774138960380868811
+    second: stella_walk (1)_48
+  - first:
+      213: 7523529449690487754
+    second: stella_walk (1)_49
+  - first:
+      213: -7259563727884777635
+    second: stella_walk (1)_50
+  - first:
+      213: -376929600498765586
+    second: stella_walk (1)_51
+  - first:
+      213: 3665249429239825341
+    second: stella_walk (1)_52
+  - first:
+      213: 1775819208144093606
+    second: stella_walk (1)_53
+  - first:
+      213: -3192886697896928363
+    second: stella_walk (1)_54
+  - first:
+      213: 4232666206331846352
+    second: stella_walk (1)_55
+  - first:
+      213: -829919597723044853
+    second: stella_walk (1)_56
+  - first:
+      213: -6078804502511690284
+    second: stella_walk (1)_57
+  - first:
+      213: 9147409448286589975
+    second: stella_walk (1)_58
+  - first:
+      213: -5157668975290898611
+    second: stella_walk (1)_59
+  - first:
+      213: 3493839877270357357
+    second: stella_walk (1)_60
+  - first:
+      213: 2954302955640310765
+    second: stella_walk (1)_61
+  - first:
+      213: -3459683788669417504
+    second: stella_walk (1)_62
+  - first:
+      213: 8476115139826502402
+    second: stella_walk (1)_63
+  - first:
+      213: 5935886681778136879
+    second: stella_walk (1)_64
+  - first:
+      213: -2482968368772246625
+    second: stella_walk (1)_65
+  - first:
+      213: -1972023279381897511
+    second: stella_walk (1)_66
+  - first:
+      213: 8473060839949621785
+    second: stella_walk (1)_67
+  - first:
+      213: -6413285580256477574
+    second: stella_walk (1)_68
+  - first:
+      213: 4589635969926964332
+    second: stella_walk (1)_69
+  - first:
+      213: -348031240653680863
+    second: stella_walk (1)_70
+  - first:
+      213: -1564109681990924519
+    second: stella_walk (1)_71
+  - first:
+      213: -3472733091956363355
+    second: stella_walk (1)_72
+  - first:
+      213: 2328652211447300566
+    second: stella_walk (1)_73
+  - first:
+      213: 5111092453918973533
+    second: stella_walk (1)_74
+  - first:
+      213: -6768262527497242970
+    second: stella_walk (1)_75
+  - first:
+      213: -6242184189822105263
+    second: stella_walk (1)_76
+  - first:
+      213: -4916138684897675011
+    second: stella_walk (1)_77
+  - first:
+      213: -4614183990213567340
+    second: stella_walk (1)_78
+  - first:
+      213: 2969601873082952807
+    second: stella_walk (1)_79
+  - first:
+      213: 1386622240137356360
+    second: stella_walk (1)_80
+  - first:
+      213: -3713018658841381471
+    second: stella_walk (1)_81
+  - first:
+      213: -7323558668311823386
+    second: stella_walk (1)_82
+  - first:
+      213: 3563559697470395621
+    second: stella_walk (1)_83
+  - first:
+      213: -6597913113599231871
+    second: stella_walk (1)_84
+  - first:
+      213: 5764080444423634685
+    second: stella_walk (1)_85
+  - first:
+      213: 8650850518164909243
+    second: stella_walk (1)_86
+  - first:
+      213: 2734806848693168633
+    second: stella_walk (1)_87
+  - first:
+      213: 4245844402593695435
+    second: stella_walk (1)_88
+  - first:
+      213: 4288193960119795130
+    second: stella_walk (1)_89
+  - first:
+      213: 4632884614782998279
+    second: stella_walk (1)_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stella_walk (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682acddaf36607af0800000000000000
+      internalID: -400707943150083450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e63c742f8150190800000000000000
+      internalID: -7996958134461305271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98a826be772a700800000000000000
+      internalID: 550133957346888155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52527b69530c4e010800000000000000
+      internalID: 1217309135691261221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937ba135719f2fa0800000000000000
+      internalID: -5823275860636241000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e717f4a51dd2e0800000000000000
+      internalID: -2099498053020425301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0787645cfc96ca0800000000000000
+      internalID: -6023054580433522449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae954001ba1e9e800800000000000000
+      internalID: 642292546701384170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71032afd886edf90800000000000000
+      internalID: -6926984217852968581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62283c6796f53c50800000000000000
+      internalID: 6644487955471147626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f55b1a0f9fd100800000000000000
+      internalID: 135001379601510814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da0feafb5cd7640800000000000000
+      internalID: 5079433381808221542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7572381f950b420800000000000000
+      internalID: 2643711875088865269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa349c59bf36d820800000000000000
+      internalID: 2942609471887915769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d99a74d02334b0800000000000000
+      internalID: -5461985826108221322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2605c6459a7e5e0800000000000000
+      internalID: -1880348139344338177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9917930d7d4970800000000000000
+      internalID: 8740779906169412624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463802915f48a1b0800000000000000
+      internalID: -5645174921147959743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572968d65c326d9d0800000000000000
+      internalID: -2749971191610043787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ada8377f5a10850800000000000000
+      internalID: 6341532232528353837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6eb6ca329984d0800000000000000
+      internalID: -3131811284719341918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac62ce5c8a6fda50800000000000000
+      internalID: 6548069534337756324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fac3409cf5c4960800000000000000
+      internalID: 7587544789176594308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38595986e2e6c90800000000000000
+      internalID: -7174746129633541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe84b7e84d68d20800000000000000
+      internalID: 3280543087004807162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960d9f56597933f0800000000000000
+      internalID: -920571236942281069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051272506dc368e0800000000000000
+      internalID: -1701290420632152825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23369f3d9ca8ad0800000000000000
+      internalID: -2699123114395880755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2158c50375b7184a0800000000000000
+      internalID: -6592852765089954542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe5a472e88ec530800000000000000
+      internalID: 3877186835413593902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1fdb17037893f0800000000000000
+      internalID: -893838051663471542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_walk (1)_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74ba9ef5313da80800000000000000
+      internalID: -8443383573726410783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
